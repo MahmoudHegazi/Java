@@ -25,12 +25,13 @@ public class Main {
          if (wordReversed.equals(wordReversed2)){
            points += 50;
          }       
-         System.out.println(points + "%" );
+         System.out.println(points + "%");
   }
   
   
   public static void main(String[] args) {
-    revesable("lo!te@ppe^%%tol", "lo!te@ppe^%%tol");
+    reversible("lo!te@ppe^%%tol", "lot%%^epp@et!ol");
   }
 }
+
 ```
