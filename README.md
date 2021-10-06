@@ -2,6 +2,7 @@
 
 //Check if two series are equal to each other, direct or inverse
 
+```java
 public class Main {
 
   static void revesable(String word1, String word2){
@@ -32,3 +33,4 @@ public class Main {
     revesable("lo!te@ppe^%%tol", "lo!te@ppe^%%tol");
   }
 }
+```
