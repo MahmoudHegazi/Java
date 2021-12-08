@@ -37,7 +37,7 @@ public class Main {
 ```
 
 # helpfull links
-*. https://spring.io/guides/gs/spring-boot-docker/ (Important)
-*. https://stackify.com/spring-boot-level-up/
-*. https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
-*. https://developer.okta.com/blog/2019/05/13/angular-8-spring-boot-2
+* https://spring.io/guides/gs/spring-boot-docker/ (Important)
+* https://stackify.com/spring-boot-level-up/
+* https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
+* https://developer.okta.com/blog/2019/05/13/angular-8-spring-boot-2
